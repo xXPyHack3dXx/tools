@@ -8,3 +8,7 @@ Tools used
 ### SQL Injection
 [SQLMap](http://sqlmap.org/)
 
+### Bruteforce
+[ZIP Crack](http://manpages.ubuntu.com/manpages/precise/en/man1/fcrackzip.1.html)
+
+
