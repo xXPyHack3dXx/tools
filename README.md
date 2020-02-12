@@ -3,6 +3,7 @@ Tools used
 <br>
 ### Crypto
 [Graphic Ciphers PDF](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)
+[Online encrypt/decrypt](https://cryptii.com/)
 
 ### Web discovery
 [DirBuster](https://sourceforge.net/projects/dirbuster/)<br>
