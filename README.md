@@ -4,6 +4,7 @@ Tools used
 ### Crypto
 [Graphic Ciphers PDF](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)<br>
 [Online encrypt/decrypt](https://cryptii.com/)
+[Integer Sequence Finder](http://oeis.org/)
 
 ### Web discovery
 [DirBuster](https://sourceforge.net/projects/dirbuster/)<br>
