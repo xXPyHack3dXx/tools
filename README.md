@@ -3,7 +3,7 @@ Tools used
 <br>
 ### Crypto
 [Graphic Ciphers PDF](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)<br>
-[Online encrypt/decrypt](https://cryptii.com/)
+[Online encrypt/decrypt](https://cryptii.com/)<br>
 [Integer Sequence Finder](http://oeis.org/)
 
 ### Web discovery
