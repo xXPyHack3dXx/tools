@@ -1,6 +1,9 @@
 # Tools
 Tools used
 <br>
+### Crypto
+[Graphic Ciphers PDF](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)
+
 ### Web discovery
 [DirBuster](https://sourceforge.net/projects/dirbuster/)<br>
 [WFuzz](https://github.com/xmendez/wfuzz)
