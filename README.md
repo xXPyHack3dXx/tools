@@ -1,6 +1,11 @@
 # Tools
 Tools used
 <br>
+
+### Domain/DNS
+[Domain info](http://websiteoutlook.com/)<br>
+[SPF](https://www.dmarcanalyzer.com/es/spf-3/checker/) / [DKIM](https://www.dmarcanalyzer.com/es/dkim-3/dkim-record-check/) / [DMARC](https://www.dmarcanalyzer.com/es/dmarc-3/dmarc-record-check/) checkers
+
 ### Crypto
 [Graphic Ciphers PDF](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)<br>
 [Online encrypt/decrypt](https://cryptii.com/)<br>
