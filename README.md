@@ -10,7 +10,7 @@ Tools used
 [Graphic Ciphers PDF](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)<br>
 [Online encrypt/decrypt (few)](https://cryptii.com/)<br>
 [Online encrypt/decrypt (many)](https://asecuritysite.com/encryption/)<br>
-[Integer Sequence Finder](http://oeis.org/)
+[Integer Sequence Finder](http://oeis.org/)<br>
 [Javascript Deobfuscator](https://lelinhtinh.github.io/de4js/)
 
 ### Web discovery
