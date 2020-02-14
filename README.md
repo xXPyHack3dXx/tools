@@ -11,6 +11,7 @@ Tools used
 [Online encrypt/decrypt (few)](https://cryptii.com/)<br>
 [Online encrypt/decrypt (many)](https://asecuritysite.com/encryption/)<br>
 [Integer Sequence Finder](http://oeis.org/)
+[Javascript Deobfuscator](https://lelinhtinh.github.io/de4js/)
 
 ### Web discovery
 [DirBuster](https://sourceforge.net/projects/dirbuster/)<br>
