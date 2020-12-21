@@ -24,7 +24,7 @@ Tools used
 [SQLMap](http://sqlmap.org/)
 
 ### Bruteforce
-[ZIP Crack](http://manpages.ubuntu.com/manpages/precise/en/man1/fcrackzip.1.html)
+[fcrackzip](http://manpages.ubuntu.com/manpages/precise/en/man1/fcrackzip.1.html)
 
 ### Stego
 [steghide](http://steghide.sourceforge.net/) / [steghide Online](https://futureboy.us/stegano/decinput.html)
