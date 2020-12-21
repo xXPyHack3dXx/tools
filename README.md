@@ -29,3 +29,5 @@ Tools used
 ### Stego
 [steghide](http://steghide.sourceforge.net/) / [steghide Online](https://futureboy.us/stegano/decinput.html)
 
+### Image Manipulation
+[Pillow library/Python](https://pillow.readthedocs.io/en/stable/index.html)
