@@ -30,4 +30,5 @@ Tools used
 [steghide](http://steghide.sourceforge.net/) / [steghide Online](https://futureboy.us/stegano/decinput.html)
 
 ### Image Manipulation
+[Forensically](https://29a.ch/photo-forensics/#pca)
 [Pillow library/Python](https://pillow.readthedocs.io/en/stable/index.html)
