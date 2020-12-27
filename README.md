@@ -10,9 +10,9 @@ Tools used
 [Base64 Guru](https://base64.guru/converter/decode/file)<br>
 [Graphic Ciphers PDF](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)<br>
 [Online encrypt/decrypt (few)](https://cryptii.com/)<br>
-[Online encrypt/decrypt (many)](http://icyberchef.com/)<br>
 [Online encrypt/decrypt (many)](https://asecuritysite.com/encryption/)<br>
-[Online encrypt/decrypt (many/rare)](https://www.dcode.fr/)<br>
+[CyberChef - Online encrypt/decrypt (many)](http://icyberchef.com/)<br>
+[dCode - Online encrypt/decrypt (many/rare)](https://www.dcode.fr/)<br>
 [Integer Sequence Finder](http://oeis.org/)<br>
 [Javascript Deobfuscator](https://lelinhtinh.github.io/de4js/)
 
